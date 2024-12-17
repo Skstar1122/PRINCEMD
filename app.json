@@ -80,7 +80,7 @@
     "SESSION_ID": {
       "description": "put your session ID here in the box below",
       "required": true,
-      "value": ""
+      "value": "Prince~x9oXRQ6D#YTHx4Ns79gym5fIDZRpwrwbxlIBFNDT1LrMjIeXNo90"
     }
   },
   "buildpacks": [
